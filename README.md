@@ -1,1 +1,1 @@
-<h1 style="font-size:90px;">Rafael Teste</h1>
+<h1 size=90>Rafael Teste</h1>
