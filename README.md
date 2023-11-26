@@ -28,7 +28,12 @@
 * Caçando novos cursos 🧠
 * E claro, Desenvolvendo 🤖
   
-#### Para melhor análise de meu perfil profissional, acesse meu Linkedin:
-
+#### Para melhor análise de meu perfil profissional, acesse meu <a href="https://www.linkedin.com/in/rafael-souza-234511207" target="_blank">Linkedin</a>:
 <a href="https://www.linkedin.com/in/rafael-souza-234511207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+>Meus Status Git 👏:
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael202074&layout=normal&langs_count=20&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael202074&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+</div>
