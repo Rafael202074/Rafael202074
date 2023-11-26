@@ -1,6 +1,6 @@
-<!--<div align="center">
+<div align="center">
   <img src="https://github.com/Rafael202074/Rafael202074/assets/103136973/ee070406-a5aa-49f7-b0a5-069e74f71a16" width="100%"/>
-</div>-->
+</div>
   
 >Hello World 👋
 ## Hi! Rafael here! 😄
@@ -17,7 +17,7 @@
 ⠀⠀Foi ai que eu percebi que amava codar, adorava a boa sensação de criar algo com suas palavras\
 ⠀⠀...Um pouco filosófico não? 🤨
 
-<img src="https://github.com/Rafael202074/Rafael202074/assets/103136973/69cbc58e-a846-4535-a495-f31b45a348b9" width="73%"/> <br>
+<img src="https://github.com/Rafael202074/Rafael202074/assets/103136973/69cbc58e-a846-4535-a495-f31b45a348b9" width="100%"/> <br>
 
 >Tá, mas e o que eu ando fazendo 🤔?
 
