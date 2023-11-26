@@ -28,7 +28,7 @@
 * Caçando novos cursos 🧠
 * E claro, Desenvolvendo 🤖
   
-#### Para melhor análise de meu perfil profissional, acesse meu linkedin 😉:
+#### Para melhor análise de meu perfil profissional, acesse meu Linkedin:
 
-<a href="https://www.linkedin.com/in/rafael-souza-234511207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafael-souza-234511207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
