@@ -7,7 +7,7 @@
 
 🤫 (Apenas um estudante apaixonado)
 
->Vem cá.. vem cá.. Quer saber sobre mim um pouquinho?
+>Quer saber sobre mim um pouquinho?
 
 ⠀⠀Pois bem, já comentei que sou apaixonado não é?
 
@@ -29,11 +29,30 @@
 * E claro, Desenvolvendo 🤖
   
 #### Para melhor análise de meu perfil profissional, acesse meu <a href="https://www.linkedin.com/in/rafael-souza-234511207" target="_blank">Linkedin</a>:
-<a href="https://www.linkedin.com/in/rafael-souza-234511207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rafael-souza-234511207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<br><br>
 
->Meus Status Git 👏:
+>👏 Meus Status Git 👏:
 
 <div>
-  <img width="350px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Rafael202074&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img width="350px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael202074&layout=normal&langs_count=20&theme=tokyonight"/>
+  <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Rafael202074&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael202074&layout=normal&langs_count=20&theme=tokyonight"/>
 </div>
+<br>
+
+>Linguagens 👽
+---
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+---
