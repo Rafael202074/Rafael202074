@@ -40,7 +40,7 @@
 </div>
 <br>
 
->Linguagens 👽
+>Linguagens ou Bibliotecas 👽
 ---
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
