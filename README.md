@@ -35,8 +35,8 @@
 >👏 Meus Status Git 👏:
 
 <div>
-  <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Rafael202074&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="400px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael202074&layout=normal&langs_count=20&theme=tokyonight"/>
+  <img width="400px" height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafael202074&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="400px" height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafael202074&layout=normal&langs_count=20&theme=tokyonight"/>
 </div>
 <br>
 
