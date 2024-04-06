@@ -17,7 +17,7 @@
 ⠀⠀Foi ai que eu percebi que amava codar, adorava a boa sensação de criar algo com suas palavras\
 ⠀⠀...Um pouco filosófico não? 🤨
 
-# <img src="https://github.com/Rafael202074/Rafael202074/assets/103136973/69cbc58e-a846-4535-a495-f31b45a348b9" width="100%"/> <br>
+<!-- <img src="https://github.com/Rafael202074/Rafael202074/assets/103136973/69cbc58e-a846-4535-a495-f31b45a348b9" width="100%"/> <br> -->
 
 >Tá, mas e o que eu ando fazendo 🤔?
 
