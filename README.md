@@ -9,9 +9,7 @@
 
 >Quer saber sobre mim um pouquinho?
 
-⠀⠀Pois bem, já comentei que sou apaixonado não é?
-
-⠀⠀**Mas.. de onde veio essa paixão?**\
+⠀⠀**De onde veio essa paixão por programação?**\
 ⠀⠀Ela surgiu em meu curso técnico de informática, onde conheci um grande professor\
 ⠀⠀E a matéria que mudou tudo, algoritmos ( Por onde sempre começamos não é mesmo 😆? )\
 ⠀⠀Foi ai que eu percebi que amava codar, adorava a boa sensação de criar algo com suas palavras\
